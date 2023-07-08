@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Notifications reders the text "Here is the list of notifications"  1`] = `
+<div
+  className="Notifications"
+>
+  <button
+    aria-label="Close"
+    className="x-button"
+    onClick={[Function]}
+  >
+    x
+  </button>
+  <p>
+    Here is the list of notifications
+  </p>
+  <ul>
+    <li
+      data-priority="default"
+    >
+      New course available
+    </li>
+    <li
+      data-priority="urgent"
+    >
+      New resume available
+    </li>
+    <li
+      className="latest-notification"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "<strong>Urgent requirement</strong> - complete by EOD",
+        }
+      }
+      data-priority="urgent"
+    />
+  </ul>
+</div>
+`;
+
+exports[`Notifications renders 3 list items 1`] = `
+<div
+  className="Notifications"
+>
+  <button
+    aria-label="Close"
+    className="x-button"
+    onClick={[Function]}
+  >
+    x
+  </button>
+  <p>
+    Here is the list of notifications
+  </p>
+  <ul>
+    <li
+      data-priority="default"
+    >
+      New course available
+    </li>
+    <li
+      data-priority="urgent"
+    >
+      New resume available
+    </li>
+    <li
+      className="latest-notification"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "<strong>Urgent requirement</strong> - complete by EOD",
+        }
+      }
+      data-priority="urgent"
+    />
+  </ul>
+</div>
+`;
+
+exports[`Notifications renders without crashing 1`] = `
+<div
+  className="Notifications"
+>
+  <button
+    aria-label="Close"
+    className="x-button"
+    onClick={[Function]}
+  >
+    x
+  </button>
+  <p>
+    Here is the list of notifications
+  </p>
+  <ul>
+    <li
+      data-priority="default"
+    >
+      New course available
+    </li>
+    <li
+      data-priority="urgent"
+    >
+      New resume available
+    </li>
+    <li
+      className="latest-notification"
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "<strong>Urgent requirement</strong> - complete by EOD",
+        }
+      }
+      data-priority="urgent"
+    />
+  </ul>
+</div>
+`;

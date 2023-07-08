@@ -1,0 +1,43 @@
+.Holberton-logo {
+  width: 200px;
+  height: auto;
+}
+h1 {
+  display: inline;
+  color: red;
+  position: absolute;
+  top: 30%;
+  left: 218px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.App {
+  position: relative;
+}
+
+.App-header {
+  border-bottom: 3px solid red;
+  position: relative;
+}
+
+.App-footer {
+  border-top: 3px solid red;
+  width: 100%;
+  position: absolute;
+  bottom: -433px;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
+
+.App-body {
+  padding: 30px;
+}
+
+form {
+  white-space: pre-wrap;
+}
+.Ok-button {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}

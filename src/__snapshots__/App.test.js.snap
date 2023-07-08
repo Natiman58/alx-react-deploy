@@ -1,0 +1,257 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App is rendered without crashing 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="Holberton logo"
+      className="Holberton-logo"
+      src="holberton-logo.jpg"
+    />
+    <h1>
+      School dashboard
+    </h1>
+  </header>
+  <div
+    className="App-body"
+  >
+    <p>
+      Login to access the full dashboard
+    </p>
+    <form>
+      <label
+        htmlFor="email"
+      >
+         Email: 
+        <input
+          name="email"
+          type="text"
+        />
+         
+      </label>
+      <label
+        htmlFor="password"
+      >
+         Password: 
+        <input
+          name="password"
+          type="text"
+        />
+         
+      </label>
+      <button
+        className="Ok-button"
+        type="submit"
+      >
+        OK
+      </button>
+    </form>
+  </div>
+  <footer
+    className="App-footer"
+  >
+    <p>
+      Copyright 
+      2023
+       
+      Holberton School
+    </p>
+  </footer>
+</div>
+`;
+
+exports[`App renders a div with the class App-body 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="Holberton logo"
+      className="Holberton-logo"
+      src="holberton-logo.jpg"
+    />
+    <h1>
+      School dashboard
+    </h1>
+  </header>
+  <div
+    className="App-body"
+  >
+    <p>
+      Login to access the full dashboard
+    </p>
+    <form>
+      <label
+        htmlFor="email"
+      >
+         Email: 
+        <input
+          name="email"
+          type="text"
+        />
+         
+      </label>
+      <label
+        htmlFor="password"
+      >
+         Password: 
+        <input
+          name="password"
+          type="text"
+        />
+         
+      </label>
+      <button
+        className="Ok-button"
+        type="submit"
+      >
+        OK
+      </button>
+    </form>
+  </div>
+  <footer
+    className="App-footer"
+  >
+    <p>
+      Copyright 
+      2023
+       
+      Holberton School
+    </p>
+  </footer>
+</div>
+`;
+
+exports[`App renders a div with the class App-footer 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="Holberton logo"
+      className="Holberton-logo"
+      src="holberton-logo.jpg"
+    />
+    <h1>
+      School dashboard
+    </h1>
+  </header>
+  <div
+    className="App-body"
+  >
+    <p>
+      Login to access the full dashboard
+    </p>
+    <form>
+      <label
+        htmlFor="email"
+      >
+         Email: 
+        <input
+          name="email"
+          type="text"
+        />
+         
+      </label>
+      <label
+        htmlFor="password"
+      >
+         Password: 
+        <input
+          name="password"
+          type="text"
+        />
+         
+      </label>
+      <button
+        className="Ok-button"
+        type="submit"
+      >
+        OK
+      </button>
+    </form>
+  </div>
+  <footer
+    className="App-footer"
+  >
+    <p>
+      Copyright 
+      2023
+       
+      Holberton School
+    </p>
+  </footer>
+</div>
+`;
+
+exports[`App renders a div with the class App-header 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="Holberton logo"
+      className="Holberton-logo"
+      src="holberton-logo.jpg"
+    />
+    <h1>
+      School dashboard
+    </h1>
+  </header>
+  <div
+    className="App-body"
+  >
+    <p>
+      Login to access the full dashboard
+    </p>
+    <form>
+      <label
+        htmlFor="email"
+      >
+         Email: 
+        <input
+          name="email"
+          type="text"
+        />
+         
+      </label>
+      <label
+        htmlFor="password"
+      >
+         Password: 
+        <input
+          name="password"
+          type="text"
+        />
+         
+      </label>
+      <button
+        className="Ok-button"
+        type="submit"
+      >
+        OK
+      </button>
+    </form>
+  </div>
+  <footer
+    className="App-footer"
+  >
+    <p>
+      Copyright 
+      2023
+       
+      Holberton School
+    </p>
+  </footer>
+</div>
+`;

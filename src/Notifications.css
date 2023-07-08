@@ -1,0 +1,25 @@
+.Notifications {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border: 1px solid red;
+    border-style: dashed;
+    margin: 20px;
+    position: relative;
+    font-family: 'Times New Roman', Times, serif;
+}
+.x-button {
+    position: absolute;
+    cursor: pointer;
+    top: 10px;
+    right: 10px;
+    border: none;
+    background: none;
+}
+
+li[data-priority="default"] {
+    color: blue;
+}
+
+li[data-priority="urgent"] {
+    color: red;
+}
